@@ -18,7 +18,7 @@ Um aplicativo de calculadora simples e funcional, desenvolvido para realizar ope
 - Interface gráfica: Jetpack Compose
 
 
-## 📷 Capturas de Tela
+## 📷 Captura de Tela
 
 ![image](https://github.com/user-attachments/assets/03c13fce-c6d0-4fa7-a484-a83c2ed89780)
 

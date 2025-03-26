@@ -37,7 +37,8 @@ class CalculatorViewModel : ViewModel() {
         R.drawable.wallpaper20,
         R.drawable.wallpaper21,
         R.drawable.wallpaper22,
-    )
+        R.drawable.wallpaper23,
+        )
 
     private val _selectedWallpaper = MutableLiveData(wallpapers[0])
     val selectedWallpaper: LiveData<Int> = _selectedWallpaper
